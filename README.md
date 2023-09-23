@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @obouhlel
 - 👀 I’m interested in anime, manga, and video games
-- 🌱 I’m currently learning C Langage, in 42
-
-[![obouhlel's 42 stats](https://badge.mediaplus.ma/binary/obouhlel?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+- 🌱 I’m currently learning C/C++ Langage, in 42
 
 <!---
 obouhlel/obouhlel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
