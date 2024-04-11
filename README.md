@@ -15,6 +15,7 @@ A software engineer based in Paris.
 
 ### Front-end
 - React
+- Tailwind
 
 ### Back-end
 - Django
