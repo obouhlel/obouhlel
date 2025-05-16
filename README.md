@@ -1,5 +1,5 @@
 # Hi, I'm Oussama BOUHLEL
-A software engineer based in Paris.
+A full-stack - software engineer based in Paris.
 
 ## About me
 - Student at [42School](https://github.com/42School)
